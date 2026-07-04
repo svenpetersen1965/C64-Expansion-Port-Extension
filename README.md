@@ -2,6 +2,4 @@ This is an extension cable thing for the C64 Expansion Port, consisting of two P
 
 Rev. 0 of this project is now built and tested. 
 
-<img src="https://github.com/svenpetersen1965/C64-Expansion-Port-Extension/blob/main/C64%20Expansion%20Port%20Extension/Port%20Side/Rev.%200/Pictures/dimensions.png" width="300" alt="Port Side PCB">
-
-<img src="https://github.com/svenpetersen1965/C64-Expansion-Port-Extension/blob/main/C64%20Expansion%20Port%20Extension/Cartridge%20Side/Rev.%200/pictures/dimensions.png" width="300" alt="Cartridge Side PCB">
+<img src="https://github.com/svenpetersen1965/C64-Expansion-Port-Extension/blob/main/C64%20Expansion%20Port%20Extension/Cartridge%20Side/Rev.%200/pictures/4269_-_ExpPortExtension.JPG" width="300" alt="Expansion Port Extansion">
